@@ -1,0 +1,4 @@
+public interface UserRepo exteds JpaRepository <User,log> {
+
+    
+} 

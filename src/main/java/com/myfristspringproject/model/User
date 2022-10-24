@@ -1,0 +1,37 @@
+public class User {
+
+    private long id;
+    private String fristName;
+    private String lastName;
+    private int age;
+    private String occupation;
+
+public log getid() {
+return id;
+}
+
+public void setId (long id) {
+    this.id = id;
+}
+
+public String getFristName() {
+return fristName;
+}
+
+public void setFristName(String FristName){
+this.fristName = fristName;
+}
+
+public String getLastName() {
+return lastName;
+}
+
+public int getAge() {
+    return age;
+    }
+
+public int getOccupation() {
+        return occupation;
+        }
+    }
+
